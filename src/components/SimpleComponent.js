@@ -1,4 +1,4 @@
-import React from "react";
+import React, { Component } from "react";
 class SimpleComponent extends React.Component {
   constructor(props) {
     super(props);
